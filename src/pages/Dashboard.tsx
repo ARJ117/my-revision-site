@@ -11,7 +11,7 @@ type Module = {
 };
 
 const MATH_MODULES: Module[] = [
-  { id: "pure", name: "Pure Mathematics", progress: 40 },
+  { id: "pure", name: "Pure MathematicsHEY", progress: 40 },
   { id: "stats", name: "Statistics", progress: 20 },
   { id: "mech", name: "Mechanics", progress: 10 },
 ];
